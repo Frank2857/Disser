@@ -6,7 +6,7 @@ y= dados$JAN[1:23];y
 n=length(y)
 
 ############################################################################
-# GEV COM TENDÊNCIA  LINEAR
+# GEV 
 sink("Gev_LINEAR_1_NI.txt")
 cat("
     model {
