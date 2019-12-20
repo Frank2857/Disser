@@ -13,7 +13,7 @@ n=length(y)
 ncT=n-t0;ncT
 
 ############################################################################
-# GEV COM TENDÊNCIA
+# GEV COM TENDÊNCIA NÃO LINEAR
 sink("Gev_NOLINEAR_5_trend_NI.txt")
 cat("
     model {
